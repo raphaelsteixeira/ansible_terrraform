@@ -3,3 +3,7 @@
 .terraform/providers/registry.terraform.io/oracle/oci/4.117.0/darwin_arm64/LICENSE.md
 .terraform/providers/registry.terraform.io/oracle/oci/4.117.0/darwin_arm64/README.md
 .terraform/providers/registry.terraform.io/oracle/oci/4.117.0/darwin_arm64/CHANGELOG.md
+provider.tf
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
